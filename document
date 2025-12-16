@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logistics Service Status</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #e6f7ff; text-align: center; padding-top: 80px; }
+        h1 { color: #004d99; border-bottom: 3px solid #004d99; padding-bottom: 10px; display: inline-block; }
+        p { font-size: 1.4em; color: #333; }
+        .confirm { font-weight: bold; color: #008000; font-size: 1.6em; }
+    </style>
+</head>
+<body>
+    <h1>Cloud Application Deployment Confirmation</h1>
+    <p class="confirm"> Service is Running and Operational</p>
+    <p>This simple application confirms the service is live for the **Logistics Division**.</p>
+    <p>Deployed using Azure App Service (PaaS).</p>
+</body>
+</html>
